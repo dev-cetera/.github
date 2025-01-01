@@ -1,1 +1,1 @@
-# Welcome to Dev-Cetera's GitHub repository!
+# Welcome to the GitHub repository!
