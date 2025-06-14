@@ -1,4 +1,4 @@
-# Welcome to Dev Cetra's repository!
+# Welcome to Dev-Cetera's repository!
 
 We’re thrilled to share some of the powerful packages we use to build our apps, now open source for you to explore and use in your projects.
 
