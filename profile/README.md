@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/dev-cetera/.github/refs/heads/main/assets/banners/scroll_code_banner/scroll_code_banner_with_logo_linkedin.svg" width="100%">
+<img src="https://raw.githubusercontent.com/dev-cetera/.github/refs/heads/main/assets/banners/code_scroll_banner/code_scroll_banner_with_logo_linkedin.svg" width="100%">
 
 # Welcome to our repository!
 

@@ -23,9 +23,7 @@
       <tspan x="40" dy="38">exhaust_velocity_ms: f64,</tspan>
       <tspan x="20" dy="38">}</tspan>
     </text>
-
     <style>
-      /* All animation and sizing values remain correct */
       @keyframes scroll {
         from {
           transform: translateY(0);
