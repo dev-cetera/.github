@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/dev-cetera/resources/refs/heads/main/assets/banners/pink_wavey_banner/test.svg" width="100%">
+<img src="https://raw.githubusercontent.com/dev-cetera/.github/refs/heads/main/assets/banners/very_cool.svg" width="100%">
 
 # Welcome to Dev-Cetera's repository!
 
