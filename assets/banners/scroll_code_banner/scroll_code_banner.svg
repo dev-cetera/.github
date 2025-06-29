@@ -1,0 +1,49 @@
+<svg width="1584" height="396" viewBox="0 0 1584 396" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="banner-clip">
+      <rect x="0" y="0" width="1584" height="396" />
+    </clipPath>
+    <text id="code-block" font-family="Courier New, monospace" font-size="32" fill="grey">
+      <tspan x="20" y="38">fn main() {</tspan>
+      <tspan x="40" dy="38">let first_stage = Stage {</tspan>
+      <tspan x="60" dy="38">name: "S-IC - Saturn V First Stage",</tspan>
+      <tspan x="60" dy="38">wet_mass_kg: 2_290_000.0,</tspan>
+      <tspan x="60" dy="38">dry_mass_kg: 130_000.0,</tspan>
+      <tspan x="60" dy="38">exhaust_velocity_ms: 2_580.0,</tspan>
+      <tspan x="40" dy="38">};</tspan>
+      <tspan x="40" dy="38"> </tspan>
+      <tspan x="40" dy="38">let stage_one_dv = calculate_delta_v(&amp;first_stage);</tspan>
+      <tspan x="40" dy="38">println!("Stage 1 Delta-V: {:.2} km/s", stage_one_dv / 1000.0);</tspan>
+      <tspan x="20" dy="38">}</tspan>
+      <tspan x="20" dy="38"> </tspan>
+      <tspan x="20" dy="38">struct Stage {</tspan>
+      <tspan x="40" dy="38">name: &amp;apos;static str,</tspan>
+      <tspan x="40" dy="38">wet_mass_kg: f64,</tspan>
+      <tspan x="40" dy="38">dry_mass_kg: f64,</tspan>
+      <tspan x="40" dy="38">exhaust_velocity_ms: f64,</tspan>
+      <tspan x="20" dy="38">}</tspan>
+    </text>
+
+    <style>
+      /* All animation and sizing values remain correct */
+      @keyframes scroll {
+        from {
+          transform: translateY(0);
+        }
+        to {
+          transform: translateY(-684px); 
+        }
+      }
+      .scrolling-text {
+        animation: scroll 4s linear infinite;
+      }
+    </style>
+  </defs>
+  <rect x="0" y="0" width="1584" height="396" fill="#012456"/>
+  <g clip-path="url(#banner-clip)">
+    <g class="scrolling-text">
+      <use href="#code-block" />
+      <use href="#code-block" y="684" />
+    </g>
+  </g>
+</svg>
