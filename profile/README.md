@@ -11,8 +11,4 @@ We're building a friendly community of developers who love to learn, share, and 
 <a href="https://discord.gg/gEQ8y2nfyX">
   <img src="https://img.shields.io/badge/Discord-Join%20the%20community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join our Discord Server">
 </a>
-
-# Connect with Robert
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="t0mb3rr" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://au.linkedin.com/in/t0mb3rr?trk=profile-badge">Robert Mollentze</a></div>
               
