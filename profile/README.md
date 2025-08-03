@@ -14,5 +14,5 @@ We're building a friendly community of developers who love to learn, share, and 
 
 # Connect with Robert
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="robmllze" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://au.linkedin.com/in/robmllze?trk=profile-badge">Robert Mollentze</a></div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="t0mb3rr" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://au.linkedin.com/in/t0mb3rr?trk=profile-badge">Robert Mollentze</a></div>
               
